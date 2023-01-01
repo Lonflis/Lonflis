@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Lonflis
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Miguel Rodríguez, aka Lonflis.
+- 👀 I’m interested in videogames development, especially in the programming of mechanics.
+- 🌱 I’m currently estudying Design & Development of Videogames in URJC university, in Spain.
+- 💞️ I’m looking to work in projects related to VR, since it is what I like the most.
+- 📫 How to reach me 
 
 <!---
 Lonflis/Lonflis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
