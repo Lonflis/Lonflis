@@ -2,7 +2,11 @@
 - 👀 I’m interested in videogames development, especially in the programming of mechanics.
 - 🌱 I’m currently estudying Design & Development of Videogames in URJC university, in Spain.
 - 💞️ I’m looking to work in projects related to VR, since it is what I like the most.
-- 📫 How to reach me 
+- 📫 How to reach me:
+
+     E-mail: miguelrodriguezderojas@gmail.com
+     
+     LinkedIn: www.linkedin.com/in/miguel-rodríguez-de-rojas-3b55b9260
 
 Student Projects
 
