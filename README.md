@@ -4,19 +4,19 @@
 - 💞️ I’m looking to work in projects related to VR, since it is what I like the most.
 - 📫 How to reach me 
 
-Student Projects:
+Student Projects
 
-Gears of Hell
+Gears of Hell:
 
 ![GameBadge (1)](https://user-images.githubusercontent.com/59484310/211792947-7d65f6ca-c426-4b83-be33-c4127a49d5f6.jpg)
 
 https://github.com/PunicGames/Gears-Of-Hell
 
-Mario Kart Oculus
+Mario Kart Oculus:
 
 https://youtu.be/VKZlqJ3-wyk
 
-Marble Stars
+Marble Stars:
 
 https://github.com/PunicGames/Marble-Stars
 
