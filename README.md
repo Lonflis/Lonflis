@@ -8,6 +8,8 @@ Student Projects:
 
 Gears of Hell
 
+![GameBadge (1)](https://user-images.githubusercontent.com/59484310/211792947-7d65f6ca-c426-4b83-be33-c4127a49d5f6.jpg)
+
 Mario Kart Oculus
 
 Marble Stars
