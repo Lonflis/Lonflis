@@ -26,6 +26,16 @@ Marble Stars:
 
 https://github.com/PunicGames/Marble-Stars
 
+Game Jam Projects
+
+Neon Maze:
+
+https://itch.io/jam/gamegen-game-jam-3/rate/1928076
+
+Spacial Deliverance (VR):
+
+https://itch.io/jam/vr-jam-2023/rate/2142211
+
 <!---
 Lonflis/Lonflis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
